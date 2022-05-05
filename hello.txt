@@ -1,4 +1,4 @@
-hello git hello zxhuang hot-fix branch
+hello gitello zxhuang hot-fix branch
 hello git hello zxhuang
 hello git hello zxhuang
 hello git hello zxhuang
@@ -11,6 +11,8 @@ hello git hello zxhuang
 hello git hello zxhuang
 hello git hello zxhuang
 hello git hello zxhuang
+modify by hand
 hello git hello zxhuang
 hello git hello zxhuang master modify
+hello git hello zxhuang hot-fix m
 hello git hello zxhuang
